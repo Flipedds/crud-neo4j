@@ -29,6 +29,12 @@ src/
 │       └── application.properties
 ```
 
+## Demo
+
+https://github.com/user-attachments/assets/12cca71c-b672-4451-824c-71ff7e1ef36c
+
+
+
 ## Some API Endpoints
 The application exposes RESTful endpoints for managing heroes, villains and relationships.
 
